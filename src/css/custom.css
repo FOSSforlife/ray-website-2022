@@ -19,3 +19,9 @@
 .ray h3 {
   font-style: italic;
 }
+
+@media (min-width: 769px) {
+  .reverse-on-desktop {
+    flex-direction: row-reverse;
+  }
+}
