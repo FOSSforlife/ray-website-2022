@@ -7,3 +7,11 @@
 .displaynone {
   display: none;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.text-large {
+  font-size: 20px;
+}
