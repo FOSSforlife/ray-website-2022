@@ -1,4 +1,0 @@
-git init
-npm init -y
-gitignore
-yarn add ejs
