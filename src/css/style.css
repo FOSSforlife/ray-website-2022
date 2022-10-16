@@ -2149,6 +2149,12 @@ ul.dropdown-menu li {
   background-attachment: fixed;
 }
 
+.bg-about {
+  background: url("../images/hands.jpg");
+  background-size: cover;
+  background-position: center 0%;
+}
+
 .widget {
   margin-bottom: 30px;
 }
