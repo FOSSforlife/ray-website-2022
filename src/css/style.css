@@ -2145,18 +2145,19 @@ ul.dropdown-menu li {
 
 .bg-2 {
   background: url("../images/collage1-bw.jpg");
-  background-size: auto 270px;
+  background-size: auto 240px;
   background-position-y: top;
-  background-position: center;
+  background-position-x: center;
+  height: 240px;
   /* background-attachment: fixed; */
 }
 
 .bg-collage {
-  background: url("../images/collage1.jpg");
-  background-size: auto 270px;
+  background: url("../images/collage2.jpg");
+  background-size: auto 250px;
   background-position-y: top;
-  background-position: center;
-  height: 230px;
+  background-position-x: left;
+  height: 250px;
 }
 
 .bg-about {
