@@ -167,19 +167,19 @@ function initialize() {
   //   // icon: pinIcon,
   //   title: "Airspace",
   // });
-  // var circle = new google.maps.Circle({
-  //   center: nottingham,
-  //   map: map,
-  //   // icon: pinIcon,
-  //   // title: "Airspace",
-  //   strokeColor: "#0000FF",
-  //   strokeOpacity: 0.5,
-  //   strokeWeight: 2,
-  //   fillColor: "#0000FF",
-  //   fillOpacity: 0.1,
-  //   map,
-  //   radius: 400,
-  // });
+  var circle = new google.maps.Circle({
+    center: nottingham,
+    map: map,
+    // icon: pinIcon,
+    // title: "Airspace",
+    strokeColor: "#0000FF",
+    strokeOpacity: 0.5,
+    strokeWeight: 2,
+    fillColor: "#0000FF",
+    fillOpacity: 0.1,
+    map,
+    radius: 400,
+  });
 }
 var map = document.getElementById("map_canvas");
 if (map != null) {
