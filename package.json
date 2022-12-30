@@ -1,11 +1,11 @@
 {
-  "name": "ej-website-2022",
+  "name": "ray-website-2022",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "serve src"
+    "dev": "serve docs"
   },
   "keywords": [],
   "author": "",

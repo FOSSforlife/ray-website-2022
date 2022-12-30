@@ -570,7 +570,7 @@ input[type="tel"]:focus {
   width: 100%;
   height: 100%;
   background: #1d192c;
-  opacity: 0.8;
+  opacity: 0.4;
 }
 
 .owl-dots .owl-dot.active span,
@@ -2144,7 +2144,7 @@ ul.dropdown-menu li {
 }
 
 .bg-2 {
-  background: url("../images/collage1-bw.jpg");
+  background: url("../images/collage1.jpg");
   background-size: auto 240px;
   background-position-y: top;
   background-position-x: center;
