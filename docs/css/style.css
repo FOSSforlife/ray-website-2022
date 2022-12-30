@@ -2152,6 +2152,10 @@ ul.dropdown-menu li {
   /* background-attachment: fixed; */
 }
 
+.bg-collage:before {
+  opacity: 0;
+}
+
 .bg-collage {
   background: url("../images/collage2.jpg");
   background-size: auto 250px;
